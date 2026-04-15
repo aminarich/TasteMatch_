@@ -2,7 +2,7 @@
 # TasteMatch: Food Recommendation Generator
 
 ## Project Overview
-TasteMatch is a Python-based food recommendation system that helps users decide what to eat based on mood, budget, and preferences. It also introduces users to new meal ideas they may not normally choose.
+TasteMatch is a Python-based food recommendation system that helps users decide what to eat based on mood, budget, and preferences. It also introduces users to new meal ideas they may not normally choose. Many people, especially college students have trouble deciding on what foods to eat or eat the same foods over and over again. This will help them by recommending various foods to them quickly.
 
 ## Features
 - Mood-based food suggestions (comfort, spicy, healthy, sweet, adventurous)
